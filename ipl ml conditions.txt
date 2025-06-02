@@ -1,0 +1,23 @@
+Batting:
+
+1.Batsmans strike rate,average,50s,100s,4s,6s if it as attained the number then step 2
+2.Then we should see the stadiums and pitches(i.e we should consider his strike rate and six of that particular stadium)and if the particular batsman as passed from this stage he moves to the 3rd thing
+3.We should see his dream 11 fantasy points(i.e average dream 11 points)
+4.If all these conditions satisfies and atlast we check the batsman is the playing 11 or not 
+5.As it is ipl we have impact player and our model should check all the first 3 points I stated above and if they are in impact players list it should choose 1 player from 5 players from the list
+6.It is not necessary to choose impact players in 11.If they really performed they can....
+
+Bowling:
+
+1.For bowlers first we must consider their wickets economy rate and bowling strike and even how many matches the bowler as played in ipl
+2.Then we should see the stadium(i.e the pitch conditions and based on the wicket we should see the bowlers type like if it is chepauk or model should choose maximum of spinner)
+3.We should see his dream 11 fantasy points(i.e average dream 11 points) but for bowlers the points will be less when comparing to batsman.
+4.If all these conditions satisfies and atlast we check the batsman is the playing 11 or not 
+5.As it is ipl we have impact player and our model should check all the first 3 points I stated above and if they are in impact players list it should choose 1 player from 5 players from the list
+6.It is not necessary to choose impact players in 11.If they really performed they can....
+
+things to remember:
+
+based upon the stadium(i.e venue) the 11 should have the players who are good in that particular conditions..(see the pitch type and if it is slow dry spinners should of majority in the bowling)
+as I said in chepauk we should have spinners and if a match is going to be played in Mumbai it should have maximum of bowlers of fast bowlers...
+and for flat pitches it can have both spinners and fast bowlers mixed

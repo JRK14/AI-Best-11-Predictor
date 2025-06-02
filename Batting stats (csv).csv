@@ -1,0 +1,227 @@
+PLAYER,TEAM,INNS,RUNS,AVG,30S,50S,100S,4S,6S,SR,Player Type
+Rahul Tripathi,CSK,96,2266,26.66,20,12,0,227,85,139.02,Openor
+Ruturaj Gaikwad,CSK,69,2501,41,16,20,2,231,95,137.64,Openor
+Shaik Rasheed,CSK,0,0,0,0,0,0,0,0,N/A,Middle Order
+Andre Siddarth,CSK,0,0,0,0,0,0,0,0,N/A,Middle Order
+MS Dhoni,CSK,233,5319,39.4,44,24,0,368,256,137.55,Wicket Keeper
+Devon Conway,CSK,23,937,46.85,5,9,0,100,30,140.27,Openor
+Vansh Bedi,CSK,0,0,0,0,0,0,0,0,N/A,Wicket Keeper
+Ravichandran Ashwin,CSK,95,811,13.3,4,1,0,62,28,118.74,Spinner
+Ravindra Jadeja,CSK,188,3035,27.34,23,3,0,220,109,129.59,All Rounder
+Vijay Shankar,CSK,62,1193,26.51,4,7,0,85,47,129.82,Middle Order
+Shivam Dube,CSK,65,1566,29,9,9,0,90,105,146.22,Middle Order
+Deepak Hooda,CSK,98,1472,17.95,6,8,0,97,61,128.56,Middle Order
+Ramakrishna Ghosh,CSK,0,0,0,0,0,0,0,0,N/A,All Rounder
+Sam Curran,CSK,50,895,24.19,3,5,0,74,37,133.78,All Rounder
+Rachin Ravindra,CSK,14,331,25.46,3,2,0,29,16,147.77,Openor
+Anshul Kamboj,CSK,1,2,N/A,0,0,0,0,0,100,Fast Bowler
+Gurjapneet Singh,CSK,0,0,0,0,0,0,0,85,N/A,Fast Bowler
+Shreyas Gopal,CSK,22,180,12.86,0,0,0,19,2,106.51,Spinner
+Noor Ahmad,CSK,8,13,3.25,0,0,0,2,0,65,Spinner
+Jamie Overton,CSK,1,11,N/A,0,0,0,0,1,275,All Rounder
+Nathan Ellis,CSK,5,19,4.75,0,0,0,0,1,76,Fast Bowler
+Mukesh Choudhary,CSK,2,6,6,0,0,0,1,0,100,Fast Bowler
+Khaleel Ahmed,CSK,5,1,0.2,0,0,0,0,0,14.29,Fast Bowler
+Kamlesh Nagarkoti,CSK,7,22,5.5,0,0,0,1,0,66.67,Fast Bowler
+Matheesha Pathirana,CSK,0,0,N/A,0,0,0,0,0,N/A,Fast Bowler
+Pat Cummins,SRH,46,571,19.69,4,3,0,38,38,150.26,Fast Bowler
+Ishan Kishan,SRH,104,2771,28.57,22,16,1,268,125,137.31,Wicket Keeper
+Heinrich Klaasen,SRH,37,1145,36.94,11,6,1,69,71,168.38,Wicket Keeper
+Travis Head,SRH,30,920,35.38,7,6,1,97,46,176.25,Openor
+Abhishek Sharma,SRH,66,1428,24.2,16,7,0,138,73,154.05,Openor
+Atharva Taide,SRH,9,247,27.44,1,2,0,27,8,147.02,Middle Order
+Abhinav Manohar,SRH,18,237,13.94,3,0,0,21,10,126.74,Middle Order
+Aniket Verma,SRH,5,141,28.2,1,1,0,8,12,183.12,Middle Order
+Sachin Baby,SRH,11,144,16,1,0,0,11,5,122.03,Middle Order
+Nitish Kumar Reddy,SRH,16,415,29.64,5,2,0,26,23,135.62,All Rounder
+Kamindu Mendis,SRH,2,28,14,0,0,0,1,2,112,All Rounder
+Wiaan Mulder,SRH,1,9,9,0,0,0,1,0,81.82,All Rounder
+Mohammed Shami,SRH,30,84,6,0,0,0,7,2,93.33,Fast Bowler
+Harshal Patel,SRH,45,269,9.28,2,0,0,16,15,117.98,Fast Bowler
+Rahul Chahar,SRH,24,129,8.06,0,0,0,13,5,104.03,Spinner
+Adam Zampa,SRH,5,15,3,0,0,0,1,0,62.5,Spinner
+Simarjeet Singh,SRH,6,10,3.33,0,0,0,0,0,66.67,Fast Bowler
+Zeeshan Ansari,SRH,0,0,0,0,0,0,0,0,N/A,Spinner
+Jaydev Unadkat,SRH,32,197,12.31,0,0,0,15,7,118.67,Fast Bowler
+Eshan Malinga,SRH,0,0,0,0,0,0,0,0,N/A,Fast Bowler
+Axar Patel,DC,115,1696,21.47,12,3,0,112,81,131.68,All Rounder
+KL Rahul,DC,125,4775,45.48,19,38,4,408,191,135.08,Wicket Keeper
+Kuldeep Yadav,DC,34,188,14.46,1,1,0,17,3,85.07,Spinner
+Madhav Tiwari,DC,0,0,0,0,0,0,0,0,N/A,All Rounder
+Manvanth Kumar,DC,0,0,0,0,0,0,0,0,N/A,All Rounder
+Tripurana Vijay,DC,0,0,0,0,0,0,0,0,N/A,All Rounder
+Mitchell Starc,DC,18,107,10.7,0,0,0,11,0,93.86,Fast Bowler
+T Natarajan,DC,4,3,N/A,0,0,0,0,0,60,Fast Bowler
+Tristan Stubbs,DC,20,484,40.33,4,3,0,32,30,172.24,Middle Order
+Abishek Porel,DC,19,427,26.69,6,2,0,43,18,154.71,Wicket Keeper
+Jake Fraser-McGurk,DC,12,369,30.75,1,4,0,36,30,205,Openor
+Faf du Plessis,DC,140,4650,36.05,29,38,0,427,171,136.89,Openor
+Sameer Rizvi,DC,7,75,12.5,0,0,0,6,3,120.97,Middle Order
+Ashutosh Sharma,DC,11,256,32,3,2,0,15,20,176.55,Middle Order
+Mohit Sharma,DC,32,125,7.35,0,0,0,8,4,92.59,Fast Bowler
+Mukesh Kumar,DC,5,10,10,0,0,0,0,0,55.56,Fast Bowler
+Donovan Ferreira,DC,2,8,4,0,0,0,0,0,72.73,Middle Order
+Dushmantha Chameera,DC,8,43,10.75,0,0,0,3,3,153.57,Fast Bowler
+Karun Nair,DC,68,1496,23.75,10,10,0,161,39,127.75,Middle Order
+Vipraj Nigam,DC,2,40,40,1,0,0,5,2,235.29,All Rounder
+Ajay Mandal,DC,0,0,0,0,0,0,0,0,N/A,All Rounder
+Darshan Nalkande,DC,2,12,6,0,0,0,0,1,100,Fast Bowler
+Sanju Samson,RR,167,4556,30.78,33,26,3,368,211,139.33,Wicket Keeper Opener
+Yashasvi Jaiswal,RR,56,1708,31.63,12,10,2,204,71,149.3,Openor
+Riyan Parag,RR,62,1282,25.14,10,6,0,90,68,136.67,Middle Order
+Dhruv Jurel,RR,26,466,25.89,4,3,0,40,23,153.29,Wicket Keeper
+Shimron Hetmyer,RR,70,1331,30.25,13,4,0,81,88,152.81,Middle Order
+Sandeep Sharma,RR,27,54,9,0,0,0,4,0,77.14,Fast Bowler
+Jofra Archer,RR,28,216,14.4,0,0,0,11,16,156.52,Fast Bowler
+Wanindu Hasaranga,RR,16,80,6.67,0,0,0,7,1,97.56,Spinner
+Maheesh Theekshana,RR,4,10,10,0,0,0,0,1,83.33,Spinner
+Tushar Deshpande,RR,6,24,24,0,0,0,2,1,141.18,Fast Bowler
+Nitish Rana,RR,105,2748,28.63,17,19,0,248,137,136.58,Middle Order
+Kunal Singh Rathore,RR,0,0,0,0,0,0,0,0,N/A,Wicket Keeper
+Vaibhav Suryavanshi,RR,0,0,0,0,0,0,0,0,N/A,Openor
+Shubham Dubey,RR,5,76,25.33,1,0,0,5,6,180.95,Middle Order
+Yudhvir Charak,RR,4,22,5.5,0,0,0,1,2,137.5,Fast Bowler
+Akash Madhwal,RR,1,4,N/A,0,0,0,0,0,80,Fast Bowler
+Fazalhaq Farooqi,RR,2,3,N/A,0,0,0,0,0,23.08,Fast Bowler
+Ashok Sharma,RR,0,0,0,0,0,0,0,0,N/A,Fast Bowler
+Kwena Maphaka,RR,0,0,N/A,0,0,0,0,0,N/A,Fast Bowler
+Kumar Kartikeya,RR,3,10,3.33,0,0,0,1,0,76.92,Spinner
+Rohit Sharma,MI,256,6666,29.37,49,43,2,603,282,131.14,Openor
+Bevon Jacobs,MI,0,0,0,0,0,0,0,0,N/A,Middle Order
+Tilak Varma,MI,42,1307,39.61,16,7,0,101,65,144.74,Middle Order
+Ryan Rickelton,MI,5,108,27,0,1,0,14,5,150,Wicket Keeper Opener
+KL Shrijith,MI,0,0,0,0,0,0,0,0,N/A,Wicket Keeper
+Suryakumar Yadav,MI,140,3793,32.7,25,25,2,405,138,145.6,Middle Order
+Robin Minz,MI,2,6,3,0,0,0,0,0,40,Wicket Keeper
+Mitchell Santner,MI,15,109,13.63,0,0,0,6,6,110.1,Spinner
+Hardik Pandya,MI,131,2606,28.96,21,10,0,195,141,146.24,All Rounder
+Corbin Bosch,MI,0,0,0,0,0,0,0,0,N/A,Fast Bowler
+Will Jacks,MI,12,284,25.82,1,1,1,20,20,157.78,Middle Order
+Satyanarayana Raju,MI,1,1,N/A,0,0,0,0,0,100,Fast Bowler
+Naman Dhir,MI,11,232,25.78,2,1,0,21,14,175.76,Middle Order
+Vignesh Puthur,MI,0,0,N/A,0,0,0,0,0,N/A,Spinner
+Raj Angad Bawa,MI,2,11,5.5,0,0,0,1,0,78.57,Middle Order
+Trent Boult,MI,29,85,9.44,0,0,0,5,3,104.94,Fast Bowler
+Deepak Chahar,MI,15,108,13.5,1,0,0,4,8,144,Fast Bowler
+Jasprit Bumrah,MI,32,69,9.86,0,0,0,5,1,86.25,Fast Bowler
+Reece Topley,MI,1,3,N/A,0,0,0,0,0,50,Fast Bowler
+Arjun Tendulkar,MI,1,13,13,0,0,0,0,1,144.44,Fast Bowler
+Ashwani Kumar,MI,0,0,N/A,0,0,0,0,0,N/A,Fast Bowler
+Karn Sharma,MI,40,351,13.5,2,0,0,20,17,119.39,Spinner
+Virat Kohli,RCB,248,8168,38.9,53,57,8,720,278,132.19,Openor
+Swastik Chikara,RCB,0,0,0,0,0,0,0,0,N/A,Middle Order
+Rajat Patidar,RCB,28,960,35.56,6,9,1,67,62,161.34,Middle Order
+Devdutt Padikkal,RCB,68,1637,24.8,13,9,1,175,45,124.49,Middle Order
+Tim David,RCB,38,714,29.75,11,0,0,42,51,172.46,Middle Order
+Phil Salt,RCB,25,759,33,4,7,0,90,38,174.88,Wicket Keeper Opener
+Jitesh Sharma,RCB,39,815,23.97,10,0,0,61,51,154.06,Wicket Keeper
+Liam Livingstone,RCB,43,1018,28.28,5,7,0,69,73,160.57,All Rounder
+Krunal Pandya,RCB,113,1652,22.03,19,1,0,145,61,132.37,All Rounder
+Jacob Bethell,RCB,0,0,0,0,0,0,0,0,N/A,Middle Order
+Manoj Bhandage,RCB,0,0,0,0,0,0,0,0,N/A,All Rounder
+Mohit Rathee,RCB,0,0,0,0,0,0,0,0,N/A,Spinner
+Romario Shepherd,RCB,9,115,23,1,0,0,7,10,182.54,Middle Order
+Josh Hazlewood,RCB,6,19,N/A,0,0,0,1,0,67.86,Fast Bowler
+Bhuvneshwar Kumar,RCB,70,307,8.77,0,0,0,30,3,93.03,Fast Bowler
+Yash Dayal,RCB,1,0,0,0,0,0,0,0,N/A,Fast Bowler
+Rasikh Dar,RCB,6,40,8,0,0,0,5,0,100,Fast Bowler
+Abhinandan Singh,RCB,0,0,0,0,0,0,0,0,N/A,Fast Bowler
+Suyash Sharma,RCB,0,0,N/A,0,0,0,0,0,N/A,Spinner
+Swapnil Singh,RCB,9,51,10.2,0,0,0,3,3,113.33,Spinner
+Nuwan Thushara,RCB,0,0,N/A,0,0,0,0,0,N/A,Fast Bowler
+Lungi Ngidi,RCB,0,0,N/A,0,0,0,0,0,N/A,Fast Bowler
+Ajinkya Rahane,KKR,176,4826,30.35,34,32,2,495,115,124.51,Middle Order
+Rinku Singh,KKR,44,992,32,9,4,0,79,50,146.1,Middle Order
+Quinton de Kock,KKR,112,3275,31.19,16,24,2,325,131,134.44,Wicket Keeper Opener
+Rahmanullah Gurbaz,KKR,13,289,22.23,1,2,0,24,19,133.8,Wicket Keeper Opener
+Angkrish Raghuvanshi,KKR,12,296,26.91,3,2,0,29,12,151.02,Middle Order
+Rovman Powell,KKR,22,360,18.95,4,1,0,21,28,147.54,Middle Order
+Luvnith Sisodia,KKR,0,0,0,0,0,0,0,0,N/A,Wicket Keeper
+Manish Pandey,KKR,160,3869,29.09,29,22,1,337,111,121.17,Middle Order
+Venkatesh Iyer,KKR,53,1440,31.3,8,12,1,135,65,138.33,Middle Order
+Anukul Roy,KKR,6,26,8.67,0,0,0,3,0,108.33,Spinner
+Moeen Ali,KKR,58,1167,22.44,9,6,0,95,67,140.1,All Rounder
+Ramandeep Singh,KKR,16,199,24.88,1,0,0,9,15,159.2,All Rounder
+Andre Russell,KKR,109,2501,28.1,26,11,0,172,210,173.68,All Rounder
+Sunil Narine,KKR,114,1615,17.18,9,7,1,173,103,165.98,All Rounder
+Anrich Nortje,KKR,15,49,8.17,0,0,0,6,0,100,Fast Bowler
+Vaibhav Arora,KKR,8,9,4.5,0,0,0,0,0,56.25,Fast Bowler
+Harshit Rana,KKR,6,21,5.25,0,0,0,3,0,80.77,Fast Bowler
+Chetan Sakariya,KKR,8,20,5.25,0,0,0,3,0,80.77,Fast Bowler
+Spencer Johnson,KKR,5,8,N/A,0,0,0,1,0,72.73,Fast Bowler
+Mayank Markande,KKR,11,48,16,0,0,0,3,1,114.29,Spinner
+Varun Chakravarthy,KKR,12,25,6.25,0,0,0,2,0,54.35,Spinner
+Shreyas Iyer,PBKS,119,3295,33.28,25,23,0,281,125,129.88,Middle Order
+Arshdeep Singh,PBKS,13,30,5,0,0,0,4,0,66.67,Fast Bowler
+Yuzvendra Chahal,PBKS,20,37,5.29,0,0,0,0,0,43.02,Spinner
+Marcus Stoinis,PBKS,91,1891,27.41,11,9,1,151,93,140.8,All Rounder
+Marco Jansen,PBKS,15,103,12.88,1,0,0,7,4,113.19,All Rounder
+Shashank Singh,PBKS,22,529,44.08,4,3,0,41,30,161.77,Middle Order
+Nehal Wadhera,PBKS,19,464,27.29,4,3,0,39,26,143.65,Middle Order
+Glenn Maxwell,PBKS,132,2802,24.37,20,18,0,235,161,156.36,All Rounder
+Prabhsimran Singh,PBKS,38,847,22.29,5,4,1,90,44,146.79,Wicket Keeper Opener
+Priyansh Arya,PBKS,4,158,39.5,1,0,1,15,11,210.67,Openor
+Josh Inglis,PBKS,0,0,0,0,0,0,0,0,N/A,Wicket Keeper
+Azmatullah Omarzai,PBKS,5,58,11.6,0,0,0,4,3,120.83,All Rounder
+Lockie Ferguson,PBKS,11,72,24,0,0,0,7,2,153.19,Fast Bowler
+Vijaykumar Vyshak,PBKS,4,14,7,0,0,0,0,1,116.67,Fast Bowler
+Yash Thakur,PBKS,0,0,N/A,0,0,0,0,0,N/A,Fast Bowler
+Harpreet Brar,PBKS,24,233,21.18,0,0,0,19,9,122.63,Spinner
+Aaron Hardie,PBKS,0,0,0,0,0,0,0,0,N/A,All Rounder
+Vishnu Vinod,PBKS,6,56,9.33,1,0,0,3,3,98.25,Wicket Keeper
+Xavier Bartlett,PBKS,0,0,0,0,0,0,0,0,N/A,Fast Bowler
+Kuldeep Sen,PBKS,1,0,N/A,0,0,0,0,0,N/A,Fast Bowler
+Suryansh Shedge,PBKS,1,2,2,0,0,0,0,0,50,Middle Order
+Praveen Dubey,PBKS,2,23,N/A,0,0,0,0,0,N/A,Spinner
+Pyla Avinash,PBKS,0,0,0,0,0,0,0,0,N/A,Middle Order
+Musheer Khan,PBKS,0,0,0,0,0,0,0,0,N/A,Middle Order
+Harnoor Singh,PBKS,0,0,0,0,0,0,0,0,N/A,Middle Order
+Rahul Tewatia,GT,67,1019,24.26,11,1,0,84,48,135.15,Middle Order
+Washington Sundar,GT,41,427,15.25,4,0,0,37,11,120.62,Spinner
+Sherfane Rutherford,GT,13,235,26.11,3,0,0,14,17,132.77,Middle Order
+Gerald Coetzee,GT,5,14,3.5,0,0,0,0,1,63.64,Fast Bowler
+Glenn Phillips,GT,8,65,9.29,0,0,0,3,6,118.18,Middle Order
+Sai Kishore,GT,3,14,7,0,0,0,0,2,200,Spinner
+Mahipal Lomror,GT,35,527,18.17,6,1,0,33,30,141.29,Middle Order
+Gurnoor Brar,GT,0,0,0,0,0,0,0,0,N/A,Fast Bowler
+Arshad Khan,GT,8,102,25.5,0,1,0,6,6,145.71,Fast Bowler
+Karim Janat,GT,0,0,0,0,0,0,0,0,N/A,All Rounder
+Jayant Yadav,GT,5,40,10,0,0,0,2,1,111.11,Spinner
+Ishant Sharma,GT,28,57,9.5,0,0,0,4,2,82.61,Fast Bowler
+Kumar Kushagra,GT,3,3,1,0,0,0,0,0,42.86,Wicket Keeper
+Nishant Sindhu,GT,0,0,0,0,0,0,0,0,N/A,All Rounder
+Manav Suthar,GT,0,0,0,0,0,0,0,0,N/A,Spinner
+Anuj Rawat,GT,21,318,19.88,1,1,0,26,14,119.1,Wicket Keeper
+Kulwant Khejroliya,GT,0,0,N/A,0,0,0,0,0,N/A,Fast Bowler
+Shubman Gill,GT,103,3301,37.51,25,20,4,317,100,136.12,Openor
+Jos Buttler,GT,109,3748,39.04,16,21,7,369,170,148.49,Wicket Keeper Opener
+Rashid Khan,GT,61,551,14.5,5,1,0,39,39,161.58,Spinner
+Mohammed Siraj,GT,25,109,10.9,0,0,0,10,4,91.6,Fast Bowler
+Kagiso Rabada,GT,32,213,12.53,1,0,0,16,9,107.58,Fast Bowler
+Prasidh Krishna,GT,10,9,3,0,0,0,0,0,37.5,Fast Bowler
+Sai Sudharsan,GT,28,1220,48.8,11,8,1,111,40,141.7,Openor
+M Shahrukh Khan,GT,40,568,19.59,3,1,0,35,39,142.36,Middle Order
+Rishabh Pant,LSG,114,3303,34.05,31,18,1,296,155,147.65,Wicket Keeper
+Nicholas Pooran,LSG,77,1970,33.39,22,11,0,129,143,166.67,Middle Order
+David Miller,LSG,128,3010,35.83,25,13,1,216,137,139.48,Middle Order
+Aiden Markram,LSG,46,1092,29.51,9,6,0,80,41,130,Openor
+Himmat Singh,LSG,0,0,0,0,0,0,0,0,N/A,Middle Order
+Ayush Badoni,LSG,39,715,23.83,4,4,0,52,27,133.4,Middle Order
+Matthew Breetzke,LSG,0,0,0,0,0,0,0,0,N/A,Wicket Keeper Opener
+Aryan Juyal,LSG,0,0,0,0,0,0,0,0,N/A,Wicket Keeper
+Mitchell Marsh,LSG,40,850,22.37,4,6,0,70,48,137.1,Openor
+Shahbaz Ahmed,LSG,38,545,18.79,4,1,0,29,25,121.65,All Rounder
+Yuvraj Chaudhary,LSG,0,0,0,0,0,0,0,0,N/A,Fast Bowler
+Abdul Samad,LSG,43,630,19.69,4,0,0,42,40,151.08,Middle Order
+Arshin Kulkarni,LSG,0,0,0,0,0,0,0,0,N/A,All Rounder
+Rajvardhan Hangargekar,LSG,0,0,N/A,0,0,0,0,0,N/A,Fast Bowler
+Avesh Khan,LSG,12,43,21.5,0,0,0,3,3,165.38,Fast Bowler
+Akash Deep,LSG,4,19,6.33,0,0,0,2,1,146.15,Fast Bowler
+Prince Yadav,LSG,0,0,N/A,0,0,0,0,0,N/A,Fast Bowler
+Shamar Joseph,LSG,0,0,N/A,0,0,0,0,0,N/A,Fast Bowler
+Akash Singh,LSG,0,0,N/A,0,0,0,0,0,N/A,Fast Bowler
+Mayank Yadav,LSG,0,0,N/A,0,0,0,0,0,N/A,Fast Bowler
+Manimaran Siddharth,LSG,0,0,N/A,0,0,0,0,0,N/A,Spinner
+Digvesh Singh,LSG,1,0,N/A,0,0,0,0,0,N/A,Spinner
+Ravi Bishnoi,LSG,16,32,3.56,0,0,0,2,0,61.54,Spinner
+Shardul Thakur,LSG,40,315,12.12,0,1,0,28,13,138.16,Fast Bowler
